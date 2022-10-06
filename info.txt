@@ -1,0 +1,4 @@
+Your next client is asking for a landing page for a park - this can be a neighborhood park or national park, up to you. Bootstrap will be required for this project. Include a navbar, a photo gallery for the park, and a map image for the park location (this doesn't need to be real). Feel free to use dribbble.com as a resource for layout ideas. 
+navbar
+photo gallery for park
+map image
